@@ -1,0 +1,58 @@
+body {
+	background-color: #dbe2ec;
+}
+
+#coluna1 {
+	letter-spacing: 2px;
+	background-color: #FFF;
+	width: 25%;
+	height: 35em;
+	color: #FFF;
+	background: url('../img/tab1.jpg');
+	background-size: 100%;
+	margin-top: 5%;
+	margin-left: 5%;
+	font-family: 'Oswald', sans-serif;
+}
+
+p {
+	font-family: sans-serif;
+	font-size: 10px;
+	padding-top: 30%;
+}
+
+h1 {
+	font-size: 30px;
+	letter-spacing: 1px;
+}
+
+p, h1 {
+	width: 36%;
+}
+
+p, h1, .button, .section-bottom {
+	padding-left: 10%;
+	text-transform: uppercase;
+}
+.button {
+	display: inline-block;
+	text-align: center;
+	cursor: pointer;
+	font-family: 'Oswald';
+	font-size: 10px;
+	text-transform: uppercase;
+	margin-left: 10%;
+	color: #4b4b4b;
+	background-color: #d0d0d0;
+	border: none;
+	padding: 7px 15px;
+}
+
+.coluna-bottom {
+	font-size: 10px;
+	margin-bottom: 0px;
+	padding-bottom: 0px;
+	width: 25%;
+	height: 35em;
+
+}
